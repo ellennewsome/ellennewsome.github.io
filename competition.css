@@ -1,0 +1,63 @@
+element.style {
+color: rgba(0,0,0,1);
+margin-left:0;
+width:104%;
+}
+
+  body {
+  font-family: 'Lobster', cursive;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+div {
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+}
+
+h1 {
+  color: rgba(0,0,0,0.7);
+}
+
+h2 {
+  color: rgba(0,0,0,0.7);
+}
+
+p {
+  color: rgba(0,0,0,0.7);
+  background: rgba(255,255,255,1);
+  padding: 10px;
+  text-align: justify;
+  line-height: 28px;
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+  
+}
+
+.title {
+  background: url("http://www.rightattitudes.com/blogincludes/images/Rating_Errors_Halo_Effect_Horns_Effect.jpg");
+z-index: -1;}
+
+.first {
+  background: url("http://www.smoothieblenderguide.com/wp-content/uploads/2013/10/green-smoothie.jpg");
+position: relative
+left: 30px
+border: 3px solid;}
+
+.second {
+  background: url("http://i.ndtvimg.com/i/2015-11/fatty-food_625x350_51448868833.jpg");
+position: right;}
+
+.dessert {
+  color:rgba(0,0,0,0.7);
+}
+
+.social {
+  background: url("http://2.bp.blogspot.com/-_Wxh0q9PrHU/UptngZd9j5I/AAAAAAAAAR0/grznGpMsjBs/s1600/logos.png");
+background-size: cover;
+height:100px;
+}
